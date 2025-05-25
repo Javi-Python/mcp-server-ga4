@@ -1,0 +1,2 @@
+[console_scripts]
+mcp-server-ga4 = mcp_server_ga4.main:main

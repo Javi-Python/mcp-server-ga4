@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.py
+mcp_server_ga4/__init__.py
+mcp_server_ga4/ga4_client.py
+mcp_server_ga4/main.py
+mcp_server_ga4/tools.py
+mcp_server_ga4.egg-info/PKG-INFO
+mcp_server_ga4.egg-info/SOURCES.txt
+mcp_server_ga4.egg-info/dependency_links.txt
+mcp_server_ga4.egg-info/entry_points.txt
+mcp_server_ga4.egg-info/requires.txt
+mcp_server_ga4.egg-info/top_level.txt
